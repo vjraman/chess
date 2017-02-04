@@ -1,2 +1,3 @@
 "# simple scheme chess" 
-edit by viji
+changeed by vijay
+
